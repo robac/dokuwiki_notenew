@@ -1,8 +1,8 @@
 # General Plugin Info do not edit
 
-author Olivier Cortès / Eric Hameleers / Christopher Smith / Aurélien Bompard
-email  olive@deep-ocean.net
-date   2009-06-15
-name   Note Plugin
-desc   Add Note/Important/Tip/Warning Capability (DIV+CSS box)
-url    http://www.dokuwiki.org/plugin:note
+author Robert Poch
+email  robert@poch.cz
+date   2018-07-15
+name   NoteNew Plugin
+desc   Add Note/Important/Tip/Warning Capability (DIV+CSS box), fork of https://www.dokuwiki.org/plugin:note
+url    https://github.com/robac/dokuwiki_notenew
