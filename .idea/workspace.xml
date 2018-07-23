@@ -4,20 +4,6 @@
     <list default="true" id="e96e7f43-fa10-4749-bbff-b39122a9ee08" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/important.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/important.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/note.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/note.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tb_important.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/tb_important.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tb_note.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/tb_note.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tb_tip.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/tb_tip.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tb_warning.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/tb_warning.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tip.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/tip.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/warning.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/warning.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/info.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager.dat" beforeDir="false" afterPath="$PROJECT_DIR$/src/manager.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/syntax.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/syntax.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -100,6 +86,11 @@
               <item name="notenew" type="b2602c69:ProjectViewProjectNode" />
               <item name="notenew" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="notenew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="notenew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -139,12 +130,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532344364194</updated>
-      <workItem from="1532344365633" duration="440000" />
+      <workItem from="1532344365633" duration="531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="440000" />
+    <option name="totallyTimeSpent" value="531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -198,7 +189,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
     </entry>
