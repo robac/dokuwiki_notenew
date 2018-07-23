@@ -18,19 +18,19 @@ toolbar[toolbar.length] = {"type":"picker",
  
 if(toolbar){ 
     toolbar[toolbar.length] = {"type":"format", "title":"note", "key":"", 
-                               "icon":"../../plugins/note/images/tb_note.png", 
+                               "icon":"../../plugins/notenew/images/tb_note.png",
                                "open":"<note>", "close":"</note>"
                               }; 
     toolbar[toolbar.length] = {"type":"format", "title":"tip", "key":"", 
-                               "icon":"../../plugins/note/images/tb_tip.png", 
+                               "icon":"../../plugins/notenew/images/tb_tip.png",
                                "open":"<note tip>", "close":"</note>"
                               }; 
     toolbar[toolbar.length] = {"type":"format", "title":"important", "key":"", 
-                               "icon":"../../plugins/note/images/tb_important.png", 
+                               "icon":"../../plugins/notenew/images/tb_important.png",
                                "open":"<note important>", "close":"</note>"
                               }; 
     toolbar[toolbar.length] = {"type":"format", "title":"warning", "key":"", 
-                               "icon":"../../plugins/note/images/tb_warning.png", 
+                               "icon":"../../plugins/notenew/images/tb_warning.png",
                                "open":"<note warning>", "close":"</note>"
                               }; 
 }
