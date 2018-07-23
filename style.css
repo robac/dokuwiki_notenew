@@ -1,0 +1,40 @@
+.noteclassic, .noteimportant, .notewarning, .notetip {
+  margin: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 93% !important;
+  clear: both;
+  text-align: justify;
+  vertical-align: middle;
+  border-collapse: collapse;
+  padding: 10px 20px 10px 40px;
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  -moz-border-radius: 8px;
+  -khtml-border-radius: 8px;
+  border-radius: 8px;
+}
+ 
+.noteclassic {
+  border: 1px solid #9EB6D4;
+  background-color: #E0EFFF;
+  background-image: url(images/note.png);
+}
+ 
+.noteimportant {
+  border: 1px solid #F7DF92;
+  background-color: #FFD;
+  background-image: url(images/important.png);
+}
+ 
+.notewarning {
+  border: 1px solid #DF9898;
+  background-color: #FFE7E7;
+  background-image: url(images/warning.png);
+}
+ 
+.notetip {
+  border: 1px solid #9EC49F;
+  background-color: #DDFADE;
+  background-image: url(images/tip.png);
+}
