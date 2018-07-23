@@ -39,7 +39,7 @@ if(!defined('DOKU_PLUGIN')) define('DOKU_PLUGIN',DOKU_INC.'lib/plugins/');
 require_once(DOKU_PLUGIN.'syntax.php');
 
 
-class syntax_plugin_note extends DokuWiki_Syntax_Plugin {
+class syntax_plugin_notenew extends DokuWiki_Syntax_Plugin {
  
     var $notes = array(
         'noteimportant' => array('important', 'importante'),
@@ -70,10 +70,10 @@ class syntax_plugin_note extends DokuWiki_Syntax_Plugin {
       }
 
     function connectTo($mode) {
-        $this->Lexer->addEntryPattern('<note.*?>(?=.*?</note>)',$mode,'plugin_note');
+        $this->Lexer->addEntryPattern('<note.*?>(?=.*?</note>)',$mode,'plugin_notenew');
     }
     function postConnect() {
-        $this->Lexer->addExitPattern('</note>','plugin_note');
+        $this->Lexer->addExitPattern('</note>','plugin_notenew');
     }
  
     function handle($match, $state, $pos, &$handler){
